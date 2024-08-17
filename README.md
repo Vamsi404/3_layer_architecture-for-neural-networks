@@ -3,7 +3,7 @@
 
 This repository showcases a simple 3-layer neural network built in Python. The network is designed for classification tasks and demonstrates key steps such as data preprocessing, model training, evaluation, and prediction.
 
-![Neural Network Diagram](https://via.placeholder.com/800x400.png?text=Neural+Network+Diagram) 
+![Neural Network Diagram](dotdash_Final_Neural_Network_Apr_2020-01-5f4088dfda4c49d99a4d927c9a3a5ba0.jpg) 
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
