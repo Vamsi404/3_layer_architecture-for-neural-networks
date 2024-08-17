@@ -49,7 +49,3 @@ The model achieves a training accuracy of 94.4%, demonstrating its effectiveness
 
 ## Results
 The model was trained on a dataset and achieved a classification accuracy of **94.4%**. It provides a reliable baseline for understanding and implementing neural networks.
-
----
-
-This README is structured to give an overview while guiding users through setting up and running your project. Remember to update the image URL and repository links as needed.
