@@ -10,7 +10,6 @@ This repository showcases a simple 3-layer neural network built in Python. The n
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Project Overview
 This project implements a basic 3-layer neural network with:
@@ -50,9 +49,6 @@ The model achieves a training accuracy of 94.4%, demonstrating its effectiveness
 
 ## Results
 The model was trained on a dataset and achieved a classification accuracy of **94.4%**. It provides a reliable baseline for understanding and implementing neural networks.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
